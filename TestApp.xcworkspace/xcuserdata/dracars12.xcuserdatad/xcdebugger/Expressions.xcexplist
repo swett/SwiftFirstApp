@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CreateHeroView.createEblan():CreateHeroView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pidorItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomCell.pidor.didset:CustomCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AppData.defaultLoad():AppData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pidorsArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
